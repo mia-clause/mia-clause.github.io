@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Mia N Clause",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://mia-clause.github.io/images/ProfPic.png",
+    "email": "mclause@hawaii.edu",
+    "phone": "714-906-9322",
+    "website": "https://mia-clause.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences and a B.A. in Animation at the Academy for Creative Media at the University of Hawaii. I expect to graduate in Fall, 2019.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -17,41 +17,30 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "mia-clause",
+        "url": "http://github.com/mia-clause"
       },
       {
         "network": "linkedin",
         "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "url": "http://linkedin.com/in/mia-clause-2a008316a/"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "data visualization",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+      
       ]
     },
     {
-      "name": "data mining",
+      "name": "game development",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "animation",
       "keywords": [
       ]
     }
