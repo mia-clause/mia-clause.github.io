@@ -3,8 +3,8 @@ layout: project
 type: project
 published: true
 image: images/miacLacrosse.png
-title: Vacay
-permalink: projects/vacay
+title: EHS Women's Lacrosse
+permalink: projects/EHSwlacrosse
 # All dates must be YYYY-MM-DD format!
 date: 2014-06-12
 labels:
