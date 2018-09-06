@@ -12,7 +12,9 @@ labels:
 summary: Adobe Illustrator assignment where I illustrated different characters
 ---
 
-<img class="ui image" src=".../images/character.jpg">
+<div class="ui small rounded images">
+  <img class="ui medium right floated rounded image" src="../images/character.jpg">
+</div>
 
 This project was a difficult one for me.  Giving characters expression using a graphic arts software proved to be challenging for me.  I was able to create one really well done gothic gamer girl character, however after losing time my other characters fell flat.  They lacked a relaxed look to them.  They came out rigid and boxy, with very little detail.  This was one of the first projects for the class where I lost confidence in my abilities.  I was dissapointed in my work and had to learn how to overcome that frustration.
 
