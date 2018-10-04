@@ -1,0 +1,18 @@
+---
+layout: essay
+type: essay
+title: UI Frameworks(temporary title)
+# All dates must be YYYY-MM-DD format!
+date: 2018-10-03
+labels:
+  - UI Frameworks
+  - Semantic UI
+---
+
+<img class="ui image item" src="">
+
+##Why Use a UI Framework?
+After doing some light research I found that the opinion of whether a UI framework is more beneficial than simply using HTML and CSS was split.  While there are benefits to using a UI framework, I found that you have to learn just as much as another programming language to use it in a beneficial way.  
+
+
+After using both HTML, CSS, and Semantic UI, I have found that both are completely usable. The main difference I found was that I worked faster and more efficient with Semantic UI.  
