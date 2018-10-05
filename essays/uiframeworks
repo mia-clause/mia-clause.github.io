@@ -12,7 +12,11 @@ labels:
 <img class="ui image item" src="">
 
 ##Why Use a UI Framework?
-After doing some light research I found that the opinion of whether a UI framework is more beneficial than simply using HTML and CSS was split.  While there are benefits to using a UI framework, I found that you have to learn just as much as another programming language to use it in a beneficial way.  
+After doing some light research I found that one of the main reasons people use UI frameworks is because they often allow someone to build a basic project quickly and in a uniform manner.  Most of the content is already stylized and it allows the developer to tweak and adjust items to their liking with ease.  This makes it easier to pass on the project to future developers with ease.  
+
+Another benefit to using a UI Framework is the efficiency.  Once it is learned, which may take just as much time as learning a whole new programming language, it makes the process of building a project much more efficient.  I personally found that when our classwork switched from using HTML and CSS to Semantic UI, my ability to quickly produce a basic webpage improved.  The code was also easy to read and edit as I went through the process.  I found using Semantic UI to be very beneficial for my coursework and easier once I grasped the main concepts of the framework.    
 
 
-After using both HTML, CSS, and Semantic UI, I have found that both are completely usable. The main difference I found was that I worked faster and more efficient with Semantic UI.  
+###Cons to Using a Framework
+Honestly I don't know much about the cons of using a UI framework since I've only really been using Semantic UI for a week now.  With the small projects we work on in class using a framework has been nothing but beneficial for my efficiency.  However after reading a few interesting articles from actual developers, the biggest takeaway I have seen is that UI frameworks can become cluttered and messy when trying to customize a lot of details. One online short essay I found particularly interesting was written by Julian Ćwirko who explains he is a front-end and Javascript developer in Poland.  His article can be found here: [Why do you think that you always need UI framework?](http://julian.io/why-do-you-think-that-you-always-need-css-framework/) 
+He first example on the topic of difficult customization explains how customizing a simple button can be difficult and messy. He also notes how starting to customize many details in a project, it suddenly becomes more work to customize using a UI framework than simply starting with HTML and CSS. 
