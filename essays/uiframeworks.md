@@ -10,7 +10,7 @@ labels:
   - Semantic UI
 ---
 
-<img class="ui image item" src="../images/SemanticUi.png">
+<img class="ui float left image item" src="../images/SemanticUi.png">
 
 ## Why Use a UI Framework?
 After doing some light research I found that one of the main reasons people use UI frameworks is because they often allow someone to build a basic project quickly and in a uniform manner.  Most of the content is already stylized and it allows the developer to tweak and adjust items to their liking with ease.  This makes it easier to pass on the project to future developers with ease.  
