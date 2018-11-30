@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Its Dangerous To Go Alone, Take This!"
+title: Its Dangerous To Go Alone, Take This!
 published: true
 # All dates must be YYYY-MM-DD format!
 date: 2018-11-29
