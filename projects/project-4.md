@@ -15,4 +15,4 @@ labels:
 summary: My group in class worked on a meteor app called Musicians of Manoa for ICS 314 at UH Manoa
 ---
 
-  <img class="ui large floated rounded image" src="../images/MoM.jpg">
+  <img class="ui image" src="../images/MoM.jpg">

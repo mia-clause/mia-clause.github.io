@@ -1,15 +1,15 @@
 ---
-layout: essay
-type: essay
-title: "Chaos Without Coding Standards"
-published: true
-# All dates must be YYYY-MM-DD format!
-date: 2018-09-20
-labels:
-  - Learning Programming Languages
-  - Coding Standards
-  - Success
----
+   layout: essay
+   type: essay
+   title: "Chaos Without Coding Standards"
+   published: true
+   # All dates must be YYYY-MM-DD format!
+   date: 2018-09-20
+   labels:
+     - Learning Programming Languages
+     - Coding Standards
+     - Success
+   ---
 
 ## Are Coding Standards Helpful?
 
